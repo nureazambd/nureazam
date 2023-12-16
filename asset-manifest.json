@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nureazam/static/css/main.6290727b.css",
+    "main.js": "/nureazam/static/js/main.ad0dc5a0.js",
+    "static/js/787.d4aba7ab.chunk.js": "/nureazam/static/js/787.d4aba7ab.chunk.js",
+    "index.html": "/nureazam/index.html",
+    "main.6290727b.css.map": "/nureazam/static/css/main.6290727b.css.map",
+    "main.ad0dc5a0.js.map": "/nureazam/static/js/main.ad0dc5a0.js.map",
+    "787.d4aba7ab.chunk.js.map": "/nureazam/static/js/787.d4aba7ab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6290727b.css",
+    "static/js/main.ad0dc5a0.js"
+  ]
+}
