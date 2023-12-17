@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/nureazam/static/css/main.6290727b.css",
-    "main.js": "/nureazam/static/js/main.ad0dc5a0.js",
+    "main.css": "/nureazam/static/css/main.66b24e04.css",
+    "main.js": "/nureazam/static/js/main.6746b568.js",
     "static/js/787.d4aba7ab.chunk.js": "/nureazam/static/js/787.d4aba7ab.chunk.js",
+    "static/media/logo.png": "/nureazam/static/media/logo.1474ab48dbcd4f3c7843.png",
+    "static/media/web.png": "/nureazam/static/media/web.c0cb2cc13791a26822d3.png",
+    "static/media/backend.png": "/nureazam/static/media/backend.08c8d93b8142c41a9e63.png",
+    "static/media/mobile.png": "/nureazam/static/media/mobile.15e7b89f1018dcdba6e7.png",
+    "static/media/creator.png": "/nureazam/static/media/creator.f8923ce18390029928ac.png",
+    "static/media/close.svg": "/nureazam/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
+    "static/media/menu.svg": "/nureazam/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
     "index.html": "/nureazam/index.html",
-    "main.6290727b.css.map": "/nureazam/static/css/main.6290727b.css.map",
-    "main.ad0dc5a0.js.map": "/nureazam/static/js/main.ad0dc5a0.js.map",
+    "main.66b24e04.css.map": "/nureazam/static/css/main.66b24e04.css.map",
+    "main.6746b568.js.map": "/nureazam/static/js/main.6746b568.js.map",
     "787.d4aba7ab.chunk.js.map": "/nureazam/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6290727b.css",
-    "static/js/main.ad0dc5a0.js"
+    "static/css/main.66b24e04.css",
+    "static/js/main.6746b568.js"
   ]
 }
