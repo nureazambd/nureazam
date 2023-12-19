@@ -5,7 +5,7 @@ function About() {
   return (
     <div>
         <section className="text-white body-font overflow-hidden">
-  <div className="container px-5 py-24 mx-auto">
+  <div className="container px-5 py-12 mx-auto max-w-7xl">
     <div className="flex flex-col text-left w-full mb-2">
     <h1 className="lg:w-2/3 uppercase leading-relaxed text-[18px] font-semibold text-[#aaa6c3]">Introduction</h1>
       <h1 className="sm:text-6xl text-6xl font-black title-font mb-2 text-gray-50">Overview.</h1>
@@ -27,33 +27,33 @@ function About() {
 
     <div className="flex flex-wrap -m-4">
       <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-        <div className="h-full p-6 rounded-lg border-2 border-gray-300 flex flex-col relative overflow-hidden">
-        <div className=" p-6 rounded-lg  ">
-          <img className="h-52 rounded w-full object-cover object-center mb-6" src={web} alt="content"/>
+        <div className="h-[80%] p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
+        <div className=" p-32 sm:p-6 rounded-lg  ">
+          <img className="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={web} alt="content"/>
           <h2 className="text-lg text-gray-50 font-medium title-font text-center mb-4">Web Developer</h2>
         </div>
         </div>
       </div>
       <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-        <div className="h-full p-6 rounded-lg border-2 border-gray-300 flex flex-col relative overflow-hidden">
-        <div class=" p-6 rounded-lg">
-          <img class="h-52 rounded w-full object-cover object-center mb-6" src={mobile} alt="content"/>
+        <div className="h-[80%] p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
+        <div class=" p-32 sm:p-6 rounded-lg">
+          <img class="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={mobile} alt="content"/>
           <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Web Application Developer</h2>
         </div>
         </div>
       </div>
       <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-        <div className="h-full p-6 rounded-lg border-2 border-gray-300 flex flex-col relative overflow-hidden">
-        <div class=" p-6 rounded-lg">
-          <img class="h-52 rounded w-full object-cover object-center mb-6" src={backend} alt="content"/>
+        <div className="h-[80%] p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
+        <div class=" p-32 sm:p-6 rounded-lg">
+          <img class="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={backend} alt="content"/>
           <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Backend Developer</h2>
         </div>
         </div>
       </div>
-      <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-        <div className="h-full p-6 rounded-lg border-2 border-gray-300 flex flex-col relative overflow-hidden">
-        <div class=" p-6 rounded-lg">
-          <img class="h-52 rounded w-full object-cover object-center mb-6" src={creator} alt="content"/>
+      <div className="p-4 xl:w-1/4 md:w-1/2 w-full ">
+        <div className="h-[80%] p-6 rounded-lg bg-[#151030] border-2 border-gray-300 flex flex-col relative overflow-hidden">
+        <div class=" p-32 sm:p-6 rounded-lg">
+          <img class="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={creator} alt="content"/>
           <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Ai Developer</h2>
         </div>
         </div>
