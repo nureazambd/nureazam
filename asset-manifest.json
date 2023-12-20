@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nureazam/static/css/main.66b24e04.css",
-    "main.js": "/nureazam/static/js/main.6746b568.js",
+    "main.css": "/nureazam/static/css/main.17e3de4d.css",
+    "main.js": "/nureazam/static/js/main.bb30d18c.js",
     "static/js/787.d4aba7ab.chunk.js": "/nureazam/static/js/787.d4aba7ab.chunk.js",
     "static/media/logo.png": "/nureazam/static/media/logo.1474ab48dbcd4f3c7843.png",
     "static/media/web.png": "/nureazam/static/media/web.c0cb2cc13791a26822d3.png",
@@ -11,12 +11,12 @@
     "static/media/close.svg": "/nureazam/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
     "static/media/menu.svg": "/nureazam/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
     "index.html": "/nureazam/index.html",
-    "main.66b24e04.css.map": "/nureazam/static/css/main.66b24e04.css.map",
-    "main.6746b568.js.map": "/nureazam/static/js/main.6746b568.js.map",
+    "main.17e3de4d.css.map": "/nureazam/static/css/main.17e3de4d.css.map",
+    "main.bb30d18c.js.map": "/nureazam/static/js/main.bb30d18c.js.map",
     "787.d4aba7ab.chunk.js.map": "/nureazam/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.66b24e04.css",
-    "static/js/main.6746b568.js"
+    "static/css/main.17e3de4d.css",
+    "static/js/main.bb30d18c.js"
   ]
 }
