@@ -5,7 +5,7 @@ function Achievements() {
     <div className="container px-5 py-12 mx-auto max-w-7xl">
       <div className="flex flex-col text-left w-full mb-2">
     <h1 className="lg:w-2/3 uppercase leading-relaxed text-[18px] font-semibold text-[#aaa6c3]">achievements</h1>
-      <h1 className="sm:text-6xl text-6xl font-black title-font mb-2 text-gray-50">Achievements.</h1>
+      <h1 className="sm:text-6xl text-3xl font-black title-font mb-2 text-gray-50">Achievements.</h1>
     </div>
 
     <div>
