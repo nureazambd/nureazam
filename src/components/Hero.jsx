@@ -1,5 +1,6 @@
 import { motion } from "framer-motion";
 import { styles } from "../styles";
+import {herobg} from "../assets"
 
 // import { ComputersCanvas } from "./canvas";
 
@@ -26,6 +27,10 @@ const Hero = () => {
       </div>
 
       {/* <ComputersCanvas /> */}
+      <div className="absolute inset-0 top-[420px] sm:top-0 p-2 sm:pl-[400px] sm:pr-[400px] sm:pt-[350px] sm:pb-[400px]">
+      <img className=" rounded-xl border-2 border-gray-400" src={herobg} alt="" />
+      </div>
+      
 
       <div className='absolute xs:bottom-10 bottom-32 w-full flex justify-center items-center'>
         <a href='#about'>

@@ -13,11 +13,11 @@ function Achievements() {
         <h3 className='text-white text-[24px] font-bold'>Licenses and Certifications</h3>
         
         <ul className='mt-5 list-disc ml-10 space-y-2'>
-          <li className='text-white-100 text-[14px] pl-1 tracking-wider'>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
           Python (Basic) Certificate, Md. Nur E Azam's HackerRank Certificates <a href="https://www.hackerrank.com/certificates/30ea0a3a764b" target="_blank" rel="noreferrer">[see credential]</a>
           </li>
 
-          <li className='text-white-100 text-[14px] pl-1 tracking-wider'>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
           JavaScript Basics University of California, Davis Certificates<a href="https://www.coursera.org/account/accomplishments/verify/WRWLLXAYFJWY" target="_blank" rel="noreferrer">[see credential]</a>
           </li>
       </ul>
