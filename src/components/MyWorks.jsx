@@ -20,7 +20,7 @@ function MyWorks() {
       </div>
 
       <div className=" sm:flex my-6">
-        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
           <div className="p-6">
             <div className="relative w-full h-[230px]">
               <img
@@ -32,7 +32,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "http://localhost:5173/nureazam/#my-works",
+                      "https://rtchubs.com/",
                       "_blank"
                     )
                   }
@@ -66,7 +66,7 @@ function MyWorks() {
           </div>
         </div>
 
-        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-6">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 sm:mx-6 my-4 sm:my-0">
           <div className="p-6">
             <div className="relative w-full h-[230px]">
               <img
@@ -78,7 +78,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "http://localhost:5173/nureazam/#my-works",
+                      "https://bizcloudmanager.com",
                       "_blank"
                     )
                   }
@@ -112,7 +112,7 @@ function MyWorks() {
           </div>
         </div>
 
-        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
           <div className="p-6">
             <div className="relative w-full h-[230px]">
               <img
@@ -124,7 +124,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "http://localhost:5173/nureazam/#my-works",
+                      "https://github.com/nureazambd/webadminfrontend-mom2b",
                       "_blank"
                     )
                   }
@@ -141,15 +141,15 @@ function MyWorks() {
             <div class=" py-4">
               <div class="font-bold text-xl mb-2">Mom2B</div>
               <p class="text-[#aaa6c3] text-base text-[16px]">
-              Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions.
+              {/* Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions. */}
               </p>
             </div>
             <div class=" pt-4 pb-2">
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
-                #Nuxt.js
+                #React.js
               </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
-                #Tailwind CSS
+                #React Bootstrap
               </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
                 #JavaScript
@@ -160,7 +160,7 @@ function MyWorks() {
       </div>
 
       <div className=" sm:flex my-6">
-        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
           <div className="p-6">
             <div className="relative w-full h-[230px]">
               <img
@@ -172,7 +172,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "http://localhost:5173/nureazam/#my-works",
+                      "https://github.com/nureazambd/shop-hatt-frontend",
                       "_blank"
                     )
                   }
@@ -189,9 +189,9 @@ function MyWorks() {
             <div class=" py-4">
               <div class="font-bold text-xl mb-2">Shop Hatt</div>
               <p class="text-[#aaa6c3] text-base text-[16px]">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                exercitationem praesentium nihil.
+                exercitationem praesentium nihil. */}
               </p>
             </div>
             <div class=" pt-4 pb-2">
@@ -208,7 +208,7 @@ function MyWorks() {
           </div>
         </div>
 
-        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-6">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 sm:mx-6 my-4 sm:my-0">
           <div className="p-6">
             <div className="relative w-full h-[230px]">
               <img
@@ -220,7 +220,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "http://localhost:5173/nureazam/#my-works",
+                      "https://github.com/nureazambd/nureazam-3d-portfolio",
                       "_blank"
                     )
                   }
@@ -237,14 +237,14 @@ function MyWorks() {
             <div class=" py-4">
               <div class="font-bold text-xl mb-2">3D Portfolio Website</div>
               <p class="text-[#aaa6c3] text-base text-[16px]">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
                 Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                exercitationem praesentium nihil.
+                exercitationem praesentium nihil. */}
               </p>
             </div>
             <div class=" pt-4 pb-2">
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
-                #Nuxt.js
+                #React.js
               </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
                 #Tailwind CSS
@@ -256,7 +256,7 @@ function MyWorks() {
           </div>
         </div>
 
-        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
           <div className="p-6">
             <div className="relative w-full h-[230px]">
               <img
@@ -268,7 +268,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "http://localhost:5173/nureazam/#my-works",
+                      "https://github.com/nureazambd/car-repair-servicing-made-easy",
                       "_blank"
                     )
                   }
@@ -285,17 +285,15 @@ function MyWorks() {
             <div class=" py-4">
               <div class="font-bold text-xl mb-2">Car Repair & Servicing</div>
               <p class="text-[#aaa6c3] text-base text-[16px]">
-                Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-                Voluptatibus quia, nulla! Maiores et perferendis eaque,
-                exercitationem praesentium nihil.
+              Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions.
               </p>
             </div>
             <div class=" pt-4 pb-2">
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
-                #Nuxt.js
+                #React.js
               </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
-                #Tailwind CSS
+                #CSS&Bootstrap
               </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
                 #JavaScript

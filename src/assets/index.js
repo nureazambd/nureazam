@@ -26,6 +26,8 @@ import vuejs from './vue_logo.png';
 import nuxtjs from './NuxtJS_Logo.png';
 import tailwindcss from './tailwindcss.png';
 import git from './git_logo.png';
+import bootstrap from './bootstrap_logo.png';
+import figma from './Figma_logo.png';
 
 
 export{
@@ -56,5 +58,7 @@ export{
     vuejs,
     nuxtjs,
     tailwindcss,
-    git
+    git,
+    bootstrap,
+    figma
 }
