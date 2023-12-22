@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nureazam/static/css/main.eb24905f.css",
-    "main.js": "/nureazam/static/js/main.efa784e1.js",
+    "main.css": "/nureazam/static/css/main.bd17824b.css",
+    "main.js": "/nureazam/static/js/main.4179d846.js",
     "static/js/787.d4aba7ab.chunk.js": "/nureazam/static/js/787.d4aba7ab.chunk.js",
     "static/media/carRepairServicing.png": "/nureazam/static/media/carRepairServicing.8d05807d46121296d7cf.png",
     "static/media/nureazamWeb.png": "/nureazam/static/media/nureazamWeb.24da33d381e57f1b671a.png",
@@ -17,6 +17,7 @@
     "static/media/creator.png": "/nureazam/static/media/creator.f8923ce18390029928ac.png",
     "static/media/react_logo.png": "/nureazam/static/media/react_logo.aae5215c894137e613a1.png",
     "static/media/mongodb_logo.png": "/nureazam/static/media/mongodb_logo.b9414f848fdd6f29d93a.png",
+    "static/media/bootstrap_logo.png": "/nureazam/static/media/bootstrap_logo.deaedff8d3f905b775b2.png",
     "static/media/NuxtJS_Logo.png": "/nureazam/static/media/NuxtJS_Logo.5b944f7ab44b021fb1a8.png",
     "static/media/redux_toolkit.png": "/nureazam/static/media/redux_toolkit.d8d2bf4c248853af84b2.png",
     "static/media/Node_logo.png": "/nureazam/static/media/Node_logo.a721b4597f5df1bdd3ea.png",
@@ -28,12 +29,12 @@
     "static/media/close.svg": "/nureazam/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
     "static/media/menu.svg": "/nureazam/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
     "index.html": "/nureazam/index.html",
-    "main.eb24905f.css.map": "/nureazam/static/css/main.eb24905f.css.map",
-    "main.efa784e1.js.map": "/nureazam/static/js/main.efa784e1.js.map",
+    "main.bd17824b.css.map": "/nureazam/static/css/main.bd17824b.css.map",
+    "main.4179d846.js.map": "/nureazam/static/js/main.4179d846.js.map",
     "787.d4aba7ab.chunk.js.map": "/nureazam/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.eb24905f.css",
-    "static/js/main.efa784e1.js"
+    "static/css/main.bd17824b.css",
+    "static/js/main.4179d846.js"
   ]
 }
