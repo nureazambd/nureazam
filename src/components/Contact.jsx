@@ -32,9 +32,6 @@ function Contact() {
     });
   };
 
-  // service_w5ysngw
-  // template_smjfmds
-  // _f8b9DEcSFhjE1Bjz
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -42,8 +39,10 @@ function Contact() {
 
     emailjs
       .send(
-        import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
-        import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        // import.meta.env.VITE_APP_EMAILJS_SERVICE_ID,
+        'service_w5ysngw',
+        // import.meta.env.VITE_APP_EMAILJS_TEMPLATE_ID,
+        'template_smjfmds',
         {
           from_name: form.name,
           to_name: "Nur-E-Azam",
@@ -51,7 +50,8 @@ function Contact() {
           to_email: "nur.azam.bd@gmail.com",
           message: form.message,
         },
-        import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        // import.meta.env.VITE_APP_EMAILJS_PUBLIC_KEY
+        '_f8b9DEcSFhjE1Bjz'
       )
       .then(
         () => {
