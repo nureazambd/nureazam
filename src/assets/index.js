@@ -28,6 +28,9 @@ import tailwindcss from './tailwindcss.png';
 import git from './git_logo.png';
 import bootstrap from './bootstrap_logo.png';
 import figma from './Figma_logo.png';
+import porashonaApp from './porashona_app.png';
+import thikana from './thikana_xyz.png';
+import realEstateMarketplace from './Real-Estate-Marketplace.png';
 
 
 export{
@@ -60,5 +63,9 @@ export{
     tailwindcss,
     git,
     bootstrap,
-    figma
+    figma,
+    porashonaApp,
+    thikana,
+    realEstateMarketplace
+    
 }

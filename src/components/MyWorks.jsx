@@ -1,5 +1,5 @@
 import React from 'react'
-import {linkIcon, rtchubsWeb, bizcloudmanager, mom2b, shopHatt, portfolioWebsite, carRepairServicing} from '../assets'
+import {linkIcon, rtchubsWeb, bizcloudmanager, mom2b, shopHatt, portfolioWebsite, carRepairServicing, thikana, porashonaApp, realEstateMarketplace} from '../assets'
 function MyWorks() {
   return (
     <div className="container px-5 py-12 mx-auto max-w-7xl">
@@ -302,6 +302,166 @@ function MyWorks() {
           </div>
         </div>
       </div>
+
+
+{/* 3rd sectin */}
+      <div className=" sm:flex my-6">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
+          <div className="p-6">
+            <div className="relative w-full h-[230px]">
+              <img
+                class="w-full"
+                src={porashonaApp}
+                alt="Sunset in the mountains"
+              />
+              <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
+                <div
+                  onClick={() =>
+                    window.open(
+                      "https://github.com/nureazambd/shop-hatt-frontend",
+                      "_blank"
+                    )
+                  }
+                  className="black-gradient w-10 h-10 bg-black rounded-full flex justify-center items-center cursor-pointer"
+                >
+                  <img
+                    src={linkIcon}
+                    alt="source code"
+                    className="w-1/2 h-1/2 object-contain"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class=" py-4">
+              <div class="font-bold text-xl mb-2">Porashona App</div>
+              <p class="text-[#aaa6c3] text-base text-[16px]">
+                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Voluptatibus quia, nulla! Maiores et perferendis eaque,
+                exercitationem praesentium nihil. */}
+              </p>
+            </div>
+            <div class=" pt-4 pb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
+                #Nuxt.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
+                #Tailwind CSS
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
+                #Node.js
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 sm:mx-6 my-4 sm:my-0">
+          <div className="p-6">
+            <div className="relative w-full h-[230px]">
+              <img
+                class="w-full"
+                src={thikana}
+                alt="thikana"
+              />
+              <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
+                <div
+                  onClick={() =>
+                    window.open(
+                      "https://github.com/nureazambd/nureazam-3d-portfolio",
+                      "_blank"
+                    )
+                  }
+                  className="black-gradient w-10 h-10 bg-black rounded-full flex justify-center items-center cursor-pointer"
+                >
+                  <img
+                    src={linkIcon}
+                    alt="source code"
+                    className="w-1/2 h-1/2 object-contain"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class=" py-4">
+              <div class="font-bold text-xl mb-2">Thikana</div>
+              <p class="text-[#aaa6c3] text-base text-[16px]">
+                {/* Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+                Voluptatibus quia, nulla! Maiores et perferendis eaque,
+                exercitationem praesentium nihil. */}
+              </p>
+            </div>
+            <div class=" pt-4 pb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
+                #Vue.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
+                #Tailwind CSS
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
+                #JavaScript
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
+          <div className="p-6">
+            <div className="relative w-full h-[230px]">
+              <img
+                class="w-full"
+                src={realEstateMarketplace}
+                alt="Real Estate Marketplace"
+              />
+              <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
+                <div
+                  onClick={() =>
+                    window.open(
+                      "https://github.com/nureazambd/car-repair-servicing-made-easy",
+                      "_blank"
+                    )
+                  }
+                  className="black-gradient w-10 h-10 bg-black rounded-full flex justify-center items-center cursor-pointer"
+                >
+                  <img
+                    src={linkIcon}
+                    alt="source code"
+                    className="w-1/2 h-1/2 object-contain"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class=" py-4">
+              <div class="font-bold text-xl mb-2">Real Estate Marketplace - MERN STACK</div>
+              {/* <p class="text-[#aaa6c3] text-base text-[16px]">
+              Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions.
+              </p> */}
+            </div>
+            <div class=" pt-4 pb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 mr-2 mb-2">
+                #React.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-500 mr-2 mb-2">
+                #Redux Toolkit
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
+                #Tailwind CSS
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
+                #Node.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#03e461] mr-2 mb-2">
+                #MongoDB
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#800] mr-2 mb-2">
+                #Mongoose
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-sky-600 mr-2 mb-2">
+                #OAuth
+              </span>
+              
+            </div>
+          </div>
+        </div>
+      </div>
+
     </div>
   );
 }
