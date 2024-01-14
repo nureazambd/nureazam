@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nureazam/static/css/main.bd17824b.css",
-    "main.js": "/nureazam/static/js/main.e0d0bf4c.js",
+    "main.css": "/nureazam/static/css/main.4d86323f.css",
+    "main.js": "/nureazam/static/js/main.fb6e72d7.js",
     "static/js/787.d4aba7ab.chunk.js": "/nureazam/static/js/787.d4aba7ab.chunk.js",
     "static/media/carRepairServicing.png": "/nureazam/static/media/carRepairServicing.8d05807d46121296d7cf.png",
     "static/media/nureazamWeb.png": "/nureazam/static/media/nureazamWeb.24da33d381e57f1b671a.png",
@@ -9,8 +9,11 @@
     "static/media/mom2b.png": "/nureazam/static/media/mom2b.82492347806e1029367a.png",
     "static/media/rtchubsWeb.png": "/nureazam/static/media/rtchubsWeb.c0a717fc8a39301b3eb2.png",
     "static/media/logo.png": "/nureazam/static/media/logo.1474ab48dbcd4f3c7843.png",
+    "static/media/thikana_xyz.png": "/nureazam/static/media/thikana_xyz.be23d9b60e11dced92a8.png",
     "static/media/bizcloudmanager.png": "/nureazam/static/media/bizcloudmanager.aecfc374bdb36758d62b.png",
+    "static/media/porashona_app.png": "/nureazam/static/media/porashona_app.67a3f1e8abe4bd875529.png",
     "static/media/herobg.jpg": "/nureazam/static/media/herobg.3565a1b44b010125bd81.jpg",
+    "static/media/Real-Estate-Marketplace.png": "/nureazam/static/media/Real-Estate-Marketplace.8cb4eb7077669644d94d.png",
     "static/media/web.png": "/nureazam/static/media/web.c0cb2cc13791a26822d3.png",
     "static/media/backend.png": "/nureazam/static/media/backend.08c8d93b8142c41a9e63.png",
     "static/media/mobile.png": "/nureazam/static/media/mobile.15e7b89f1018dcdba6e7.png",
@@ -29,12 +32,12 @@
     "static/media/close.svg": "/nureazam/static/media/close.8de6460f269d97bdef87c899c2b54e45.svg",
     "static/media/menu.svg": "/nureazam/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
     "index.html": "/nureazam/index.html",
-    "main.bd17824b.css.map": "/nureazam/static/css/main.bd17824b.css.map",
-    "main.e0d0bf4c.js.map": "/nureazam/static/js/main.e0d0bf4c.js.map",
+    "main.4d86323f.css.map": "/nureazam/static/css/main.4d86323f.css.map",
+    "main.fb6e72d7.js.map": "/nureazam/static/js/main.fb6e72d7.js.map",
     "787.d4aba7ab.chunk.js.map": "/nureazam/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd17824b.css",
-    "static/js/main.e0d0bf4c.js"
+    "static/css/main.4d86323f.css",
+    "static/js/main.fb6e72d7.js"
   ]
 }
