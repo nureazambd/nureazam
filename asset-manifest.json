@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/nureazam/static/css/main.4d86323f.css",
-    "main.js": "/nureazam/static/js/main.fb6e72d7.js",
+    "main.js": "/nureazam/static/js/main.97135f2b.js",
     "static/js/787.d4aba7ab.chunk.js": "/nureazam/static/js/787.d4aba7ab.chunk.js",
     "static/media/carRepairServicing.png": "/nureazam/static/media/carRepairServicing.8d05807d46121296d7cf.png",
     "static/media/nureazamWeb.png": "/nureazam/static/media/nureazamWeb.24da33d381e57f1b671a.png",
@@ -33,11 +33,11 @@
     "static/media/menu.svg": "/nureazam/static/media/menu.a14e08da817ed339d3849bc81037592d.svg",
     "index.html": "/nureazam/index.html",
     "main.4d86323f.css.map": "/nureazam/static/css/main.4d86323f.css.map",
-    "main.fb6e72d7.js.map": "/nureazam/static/js/main.fb6e72d7.js.map",
+    "main.97135f2b.js.map": "/nureazam/static/js/main.97135f2b.js.map",
     "787.d4aba7ab.chunk.js.map": "/nureazam/static/js/787.d4aba7ab.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4d86323f.css",
-    "static/js/main.fb6e72d7.js"
+    "static/js/main.97135f2b.js"
   ]
 }
