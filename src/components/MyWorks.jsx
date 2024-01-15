@@ -117,14 +117,14 @@ function MyWorks() {
             <div className="relative w-full h-[230px]">
               <img
                 class="w-full"
-                src={mom2b}
-                alt="Sunset in the mountains"
+                src={realEstateMarketplace}
+                alt="Real Estate Marketplace"
               />
               <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
                 <div
                   onClick={() =>
                     window.open(
-                      "https://github.com/nureazambd/webadminfrontend-mom2b",
+                      "https://github.com/nureazambd/real-estate-marketplace",
                       "_blank"
                     )
                   }
@@ -139,24 +139,41 @@ function MyWorks() {
               </div>
             </div>
             <div class=" py-4">
-              <div class="font-bold text-xl mb-2">Mom2B</div>
-              <p class="text-[#aaa6c3] text-base text-[16px]">
-              {/* Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions. */}
-              </p>
+              <div class="font-bold text-xl mb-2">Real Estate Marketplace - MERN STACK</div>
+              {/* <p class="text-[#aaa6c3] text-base text-[16px]">
+              Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions.
+              </p> */}
             </div>
             <div class=" pt-4 pb-2">
-              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 mr-2 mb-2">
                 #React.js
               </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-500 mr-2 mb-2">
+                #Redux Toolkit
+              </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
-                #React Bootstrap
+                #Tailwind CSS
               </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
-                #JavaScript
+                #Node.js
               </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#03e461] mr-2 mb-2">
+                #MongoDB
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#800] mr-2 mb-2">
+                #Mongoose
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-sky-600 mr-2 mb-2">
+                #OAuth
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-sky-600 mr-2 mb-2">
+                #AWS
+              </span>
+              
             </div>
           </div>
         </div>
+
       </div>
 
       <div className=" sm:flex my-6">
@@ -318,7 +335,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "https://github.com/nureazambd/shop-hatt-frontend",
+                      "https://porashona.app/",
                       "_blank"
                     )
                   }
@@ -366,7 +383,7 @@ function MyWorks() {
                 <div
                   onClick={() =>
                     window.open(
-                      "https://github.com/nureazambd/nureazam-3d-portfolio",
+                      "https://thikana.xyz/",
                       "_blank"
                     )
                   }
@@ -407,14 +424,14 @@ function MyWorks() {
             <div className="relative w-full h-[230px]">
               <img
                 class="w-full"
-                src={realEstateMarketplace}
-                alt="Real Estate Marketplace"
+                src={mom2b}
+                alt="Sunset in the mountains"
               />
               <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
                 <div
                   onClick={() =>
                     window.open(
-                      "https://github.com/nureazambd/car-repair-servicing-made-easy",
+                      "https://github.com/nureazambd/webadminfrontend-mom2b",
                       "_blank"
                     )
                   }
@@ -429,34 +446,21 @@ function MyWorks() {
               </div>
             </div>
             <div class=" py-4">
-              <div class="font-bold text-xl mb-2">Real Estate Marketplace - MERN STACK</div>
-              {/* <p class="text-[#aaa6c3] text-base text-[16px]">
-              Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions.
-              </p> */}
+              <div class="font-bold text-xl mb-2">Mom2B</div>
+              <p class="text-[#aaa6c3] text-base text-[16px]">
+              {/* Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions. */}
+              </p>
             </div>
             <div class=" pt-4 pb-2">
-              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 mr-2 mb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
                 #React.js
               </span>
-              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-500 mr-2 mb-2">
-                #Redux Toolkit
-              </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
-                #Tailwind CSS
+                #React Bootstrap
               </span>
               <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
-                #Node.js
+                #JavaScript
               </span>
-              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#03e461] mr-2 mb-2">
-                #MongoDB
-              </span>
-              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#800] mr-2 mb-2">
-                #Mongoose
-              </span>
-              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-sky-600 mr-2 mb-2">
-                #OAuth
-              </span>
-              
             </div>
           </div>
         </div>
