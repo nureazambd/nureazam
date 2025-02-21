@@ -18,6 +18,163 @@ function MyWorks() {
           and manage projects effectively.
         </p>
       </div>
+      {/* 1st section */}
+      <div className=" sm:flex my-6">
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
+          <div className="p-6">
+            <div className="relative w-full h-[230px]">
+              <img
+                class="w-full"
+                src={rtchubsWeb}
+                alt="Sunset in the mountains"
+              />
+              <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
+                <div
+                  onClick={() =>
+                    window.open(
+                      "https://rtchubs.com/",
+                      "_blank"
+                    )
+                  }
+                  className="black-gradient w-10 h-10 bg-black rounded-full flex justify-center items-center cursor-pointer"
+                >
+                  <img
+                    src={linkIcon}
+                    alt="source code"
+                    className="w-1/2 h-1/2 object-contain"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class=" py-4">
+              <div class="font-bold text-xl mb-2">Software Company Web</div>
+              <p class="text-[#aaa6c3] text-base text-[16px]">
+              Discover a cutting-edge website I've crafted using Nuxt.js, Tailwind CSS, and JavaScript. Seamlessly blending sleek design with powerful functionality, it ensures a seamless, responsive experience. Explore the seamless interface and innovative features, showcasing a commitment to excellence in every aspect.
+              </p>
+            </div>
+            <div class=" pt-4 pb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
+                #Nuxt.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
+                #Tailwind CSS
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
+                #JavaScript
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 sm:mx-6 my-4 sm:my-0">
+          <div className="p-6">
+            <div className="relative w-full h-[230px]">
+              <img
+                class="w-full"
+                src={bizcloudmanager}
+                alt="Sunset in the mountains"
+              />
+              <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
+                <div
+                  onClick={() =>
+                    window.open(
+                      "https://bizcloudmanager.com",
+                      "_blank"
+                    )
+                  }
+                  className="black-gradient w-10 h-10 bg-black rounded-full flex justify-center items-center cursor-pointer"
+                >
+                  <img
+                    src={linkIcon}
+                    alt="source code"
+                    className="w-1/2 h-1/2 object-contain"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class=" py-4">
+              <div class="font-bold text-xl mb-2">Biz Cloud Manager</div>
+              <p class="text-[#aaa6c3] text-base text-[16px]">
+              A cutting-edge solution at the intersection of Vue.js, Node, and Element UI. Seamlessly control and optimize your cloud resources with an intuitive Vue.js frontend, robust Node.js backend, and the sleek Element UI. Elevate your cloud management experience with efficiency, security, and responsive.
+              </p>
+            </div>
+            <div class=" pt-4 pb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-600 mr-2 mb-2">
+                #Vue.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
+                #Element Ui
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
+                #Node.js
+              </span>
+            </div>
+          </div>
+        </div>
+
+        <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">
+          <div className="p-6">
+            <div className="relative w-full h-[230px]">
+              <img
+                class="w-full"
+                src={realEstateMarketplace}
+                alt="Real Estate Marketplace"
+              />
+              <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
+                <div
+                  onClick={() =>
+                    window.open(
+                      "https://github.com/nureazambd/real-estate-marketplace",
+                      "_blank"
+                    )
+                  }
+                  className="black-gradient w-10 h-10 bg-black rounded-full flex justify-center items-center cursor-pointer"
+                >
+                  <img
+                    src={linkIcon}
+                    alt="source code"
+                    className="w-1/2 h-1/2 object-contain"
+                  />
+                </div>
+              </div>
+            </div>
+            <div class=" py-4">
+              <div class="font-bold text-xl mb-2">Real Estate Marketplace - MERN STACK</div>
+              {/* <p class="text-[#aaa6c3] text-base text-[16px]">
+              Developed a Car Repair frontend with React, Bootstrap, HTML, CSS, and JavaScript. Utilized React components for modularity, Bootstrap for styling, and ensured code documentation for clarity. The result is a responsive and visually appealing website, ready for seamless car repair and servicing interactions.
+              </p> */}
+            </div>
+            <div class=" pt-4 pb-2">
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-700 mr-2 mb-2">
+                #React.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-blue-500 mr-2 mb-2">
+                #Redux Toolkit
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-green-600 mr-2 mb-2">
+                #Tailwind CSS
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-red-600 mr-2 mb-2">
+                #Node.js
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#03e461] mr-2 mb-2">
+                #MongoDB
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-[#800] mr-2 mb-2">
+                #Mongoose
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-sky-600 mr-2 mb-2">
+                #OAuth
+              </span>
+              <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-sky-600 mr-2 mb-2">
+                #AWS
+              </span>
+              
+            </div>
+          </div>
+        </div>
+
+      </div>
 
       <div className=" sm:flex my-6">
         <div class="max-w-sm rounded-lg overflow-hidden bg-[#151030] shadow-2xl mx-2 my-4 sm:my-0">

@@ -32,8 +32,56 @@ function Experience() {
     {/* <div className="border-2-2 absolute  border-gray-50 h-full border-2" style={{left: '50%'}}></div> */}
     <div className="border-2-2 absolute  border-gray-50 h-full border-2 left-[5%] sm:left-[50%]"></div>
     
+
+    <div className="mb-8 flex justify-between flex-row-reverse items-center w-full right-timeline sm:left-timeline">
+      <div className="order-1 hidden sm:block w-5/12">Jan 2024 - present</div>
+      
+      <div className=" hidden sm:block z-20 flex items-center order-1 bg-gray-50 shadow-xl w-12 h-12 rounded-full">
+      <div className="z-20 flex items-center ml-1 mt-1 order-1 bg-gray-800 shadow-xl w-10 h-10 rounded-full">
+        <h1 className="mx-auto font-semibold text-lg text-white">2</h1>
+      </div>
+      </div>
+
+      <div className=" block sm:hidden z-20 absolute left-0 flex items-center order-1 bg-gray-50 shadow-xl w-12 h-12 rounded-full">
+      <div className="z-20 absolute left-0 flex items-center ml-1 order-1 bg-gray-800 shadow-xl w-10 h-10 rounded-full">
+        <h1 className="mx-auto font-semibold text-lg text-white">2</h1>
+      </div>
+      </div>
+
+      <div className="order-1 bg-[#1d1836] rounded-lg shadow-xl w-12/12 sm:w-5/12 px-6 py-4">
+        <h3 className="text-white text-[24px] font-bold">Full Stack Developer</h3>
+        <p className="text-[#aaa6c3] text-[16px] font-semibold">Devolved AI</p>
+
+        <ul className='mt-5 list-disc ml-5 space-y-2'>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
+          Develop and maintain responsive and visually appealing web applications using React.js, Vue.js, Tailwind CSS to enhance user experience.
+          </li>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
+          Collaborated with cross-functional teams, including designers and product managers, to translate design mockups and requirements into functional web solutions. 
+          </li>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
+          Utilize React, and Vue.js to create interactive user interfaces and ensure cross-browser compatibility.
+          </li>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
+          Designed and implemented server-side logic using Node.js, providing efficient data handling and communication.
+          </li>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
+          Create RESTful APIs to facilitate seamless communication between front-end and back-end components, improving data accessibility.
+          </li>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
+          Implemented robust security measures, including user authentication methods like OAuth and JWT, to protect sensitive data.
+          </li>
+          <li className='text-white-100 text-[16px] pl-1 tracking-wider'>
+          Worked with databases such as MySQL, PostgreSQL, and MongoDB to design schemas, optimize queries, and ensure efficient data storage and retrieval.
+          </li>
+      </ul>
+
+      </div>
+    </div>
+
+
     <div className="mb-8 flex justify-between items-center w-full right-timeline">
-      <div className=" hidden sm:block order-1 w-5/12 text-[#b4b5b9]">Dec 2022 - October 2023</div>
+      <div className=" hidden sm:block order-1 w-5/12 text-[#b4b5b9]">Dec 2022 - Jan 2024</div>
       <div className=" hidden sm:block z-20 flex items-center order-1 bg-gray-50 shadow-xl w-12 h-12 rounded-full">
       <div className="z-20 flex items-center ml-1 mt-1 order-1 bg-gray-800 shadow-xl w-10 h-10 rounded-full">
         <h1 className="mx-auto font-semibold text-lg text-white">1</h1>
