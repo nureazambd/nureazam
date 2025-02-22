@@ -193,7 +193,7 @@ function MyWorks() {
             <div className="relative w-full h-[230px]">
               <img
                 class="w-full"
-                src={""}
+                src={argochainscanner}
                 alt="Athena 2.0 Desktop Client Application"
               />
               <div className="absolute inset-0 flex justify-end m-3 card-img_hover ">
