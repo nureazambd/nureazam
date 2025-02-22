@@ -31,6 +31,18 @@ import figma from './Figma_logo.png';
 import porashonaApp from './porashona_app.png';
 import thikana from './thikana_xyz.png';
 import realEstateMarketplace from './Real-Estate-Marketplace.png';
+import devolvedaithem from './devolvedaithem.png';
+import athenachatapp from './athenachatapp.png';
+import argochainstaking from './argochainstaking.png';
+import argochainscanner from './argochainscanner.png';
+import argochainexplorer from './argochainexplorer.png';
+
+
+
+
+
+
+
 
 
 export{
@@ -66,6 +78,11 @@ export{
     figma,
     porashonaApp,
     thikana,
-    realEstateMarketplace
+    realEstateMarketplace,
+    devolvedaithem,
+    athenachatapp,
+    argochainstaking,
+    argochainscanner,
+    argochainexplorer
     
 }
