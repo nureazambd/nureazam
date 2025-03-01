@@ -2,9 +2,15 @@ import logo from "./logo.png";
 import close from "./close.svg";
 import menu from "./menu.svg";
 import web from "./web.png";
-import mobile from "./mobile.png";
-import backend from "./backend.png";
+// import mobile from "./mobile.png";
+import mobile from "./mobile.jpg";
+
+// import backend from "./backend.png";
+import backend from "./backend.webp";
+
+// import creator from "./creator.png";
 import creator from "./creator.png";
+
 import linkIcon from './linkIcon.png';
 import herobg from './herobg.jpg';
 import rtchubsWeb from './rtchubsWeb.png';
@@ -36,6 +42,27 @@ import athenachatapp from './athenachatapp.png';
 import argochainstaking from './argochainstaking.png';
 import argochainscanner from './argochainscanner.png';
 import argochainexplorer from './argochainexplorer.png';
+
+import nestjs_logo from './nestjs_logo.png';
+import socketio_logo from './socketio_logo.png';
+import redis_logo from './redis_logo.png';
+import nginx_logo from './nginx_logo.png';
+import docker_logo from './docker_logo.png';
+import restapi_logo from './restapi_logo.png';
+import graphql_logo from './graphql_logo.png';
+import postgresql_logo from './postgresql_logo.png';
+import angular_logo from './angular_logo.png';
+import sql_logo from './sql_logo.png';
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -83,6 +110,17 @@ export{
     athenachatapp,
     argochainstaking,
     argochainscanner,
-    argochainexplorer
+    argochainexplorer,
+
+    nestjs_logo,
+    socketio_logo,
+    redis_logo,
+    nginx_logo,
+    docker_logo,
+    restapi_logo,
+    graphql_logo,
+    postgresql_logo,
+    angular_logo,
+    sql_logo
     
 }

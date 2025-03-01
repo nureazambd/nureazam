@@ -14,7 +14,16 @@ import {
   tailwindcss,
   git,
   bootstrap,
-  figma
+  figma,
+  nestjs_logo,
+  nginx_logo,
+  docker_logo,
+  restapi_logo,
+  graphql_logo,
+  redis_logo,
+  postgresql_logo,
+  angular_logo,
+  sql_logo
 } from '../assets';
 
 function Experience() {
@@ -234,8 +243,92 @@ function Experience() {
     </div>
   </div>
 
+  <div className='flex flex-row flex-wrap justify-center gap-10  mt-32'>
+        
+        <div className='w-28 h-28'>  
+        <img src={javascript} className='rounded-lg' alt="js logo" />
+        </div>
 
-    <div className='flex flex-row flex-wrap justify-center gap-10  mt-32'>
+        <div className='w-28 h-28'>  
+        <img src={typescript} className='rounded-lg' alt="typeScript logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={nodejs} className='rounded-lg' alt="nodejs logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={nestjs_logo} className='rounded-lg' alt="nestjs logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={nginx_logo} className='rounded-lg' alt="nginx logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={docker_logo} className='rounded-lg' alt="docker logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={restapi_logo} className='rounded-lg' alt="restapi logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={graphql_logo} className='rounded-lg' alt="graphql logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={redis_logo} className='rounded-lg' alt="redis logo" />
+        </div>
+
+        <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
+        <img src={postgresql_logo} className='rounded-lg' alt="postgreSQL logo" />
+        </div>
+
+        <div className='w-28 h-28'>  
+        <img src={mongodb} className='rounded-lg' alt="mongodb logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={sql_logo} className='rounded-lg' alt="sql logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={reactjs} className='rounded-lg' alt="React js logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={nextjs} className='rounded-lg' alt="Nextjs logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={angular_logo} className='rounded-lg' alt="angular logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={vuejs} className='rounded-lg' alt="css logo" />
+        </div>
+
+        <div className='w-28 h-28 '>  
+        <img src={reduxtoolkit} className='rounded-lg' alt="html logo" />
+        </div>
+        
+        <div className='w-28 h-28'>  
+        <img src={nuxtjs} className='rounded-lg' alt="js logo" />
+        </div>
+
+        <div className='w-28 h-28'>  
+        <img src={tailwindcss} className='rounded-lg' alt="typeScript logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={bootstrap} className='rounded-lg' alt="bootstrap logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={git} className='rounded-lg' alt="nodejs logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={figma} className='rounded-lg' alt="figma logo" />
+        </div>
+        
+    </div>
+    
+    
+    {/* <div className='flex flex-row flex-wrap justify-center gap-10  mt-32'>
         <div className='w-28 h-28 '>  
         <img src={html} className='rounded-lg' alt="html logo" />
         </div>
@@ -261,9 +354,9 @@ function Experience() {
         <div className='w-28 h-28'>  
         <img src={nextjs} className='rounded-lg' alt="mongodb logo" />
         </div>
-    </div>
+    </div> */}
 
-    <div className='flex flex-row flex-wrap justify-center gap-10  mt-32'>
+    {/* <div className='flex flex-row flex-wrap justify-center gap-10  mt-32'>
         <div className='w-28 h-28 '>  
         <img src={reduxtoolkit} className='rounded-lg' alt="html logo" />
         </div>
@@ -287,7 +380,7 @@ function Experience() {
         <img src={figma} className='rounded-lg' alt="figma logo" />
         </div>
         
-    </div>
+    </div> */}
 
 </div>
   )

@@ -26,35 +26,35 @@ function About() {
       }
 
     <div className="flex flex-wrap -m-4">
-      <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-        <div className="h-[80%] p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
+      <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+        <div className=" p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
         <div className=" p-32 sm:p-6 rounded-lg  ">
-          <img className="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={web} alt="content"/>
-          <h2 className="text-lg text-gray-50 font-medium title-font text-center mb-4">Web Developer</h2>
+          <img className="rounded object-cover object-center mb-6 h-32 w-full" src={web} alt="content"/>
+          <h2 className="text-lg text-gray-50 font-medium title-font lg:w-32 text-center mb-4">Web Development</h2>
         </div>
         </div>
       </div>
-      <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-        <div className="h-[80%] p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
+      <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+        <div className="p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
         <div class=" p-32 sm:p-6 rounded-lg">
-          <img class="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={mobile} alt="content"/>
-          <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Web Application Developer</h2>
+          <img class="rounded object-cover object-center mb-6 h-32 w-full" width={350} height={400} src={mobile} alt="content"/>
+          <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Web Application Development</h2>
         </div>
         </div>
       </div>
-      <div className="p-4 xl:w-1/4 md:w-1/2 w-full">
-        <div className="h-[80%] p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
-        <div class=" p-32 sm:p-6 rounded-lg">
-          <img class="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={backend} alt="content"/>
-          <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Backend Developer</h2>
+      <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+        <div className="p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
+        <div class=" p-32 sm:p-6 rounded-lg ">
+          <img class="rounded object-cover object-center mb-6 h-32 w-full" width={350} height={400} src={backend} alt="content"/>
+          <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Back-end Development</h2>
         </div>
         </div>
       </div>
-      <div className="p-4 xl:w-1/4 md:w-1/2 w-full ">
-        <div className="h-[80%] p-6 rounded-lg bg-[#151030] border-2 border-gray-300 flex flex-col relative overflow-hidden">
+      <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+        <div className="p-6 rounded-lg bg-[#151030] border-2 border-gray-300 flex flex-col relative overflow-hidden">
         <div class=" p-32 sm:p-6 rounded-lg">
-          <img class="h-20 sm:h-36 rounded w-20 sm:w-full object-cover object-center mb-6" src={creator} alt="content"/>
-          <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Ai Developer</h2>
+          <img class="rounded object-cover object-center mb-6 h-32 w-full" width={350} height={400} src={creator} alt="content"/>
+          <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">Front-end Development</h2>
         </div>
         </div>
       </div>
