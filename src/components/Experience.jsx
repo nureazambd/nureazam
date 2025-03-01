@@ -312,6 +312,13 @@ function Experience() {
         <img src={nuxtjs} className='rounded-lg' alt="js logo" />
         </div>
 
+        <div className='w-28 h-28 '>  
+        <img src={html} className='rounded-lg' alt="html logo" />
+        </div>
+        <div className='w-28 h-28'>  
+        <img src={css} className='rounded-lg' alt="css logo" />
+        </div>
+
         <div className='w-28 h-28'>  
         <img src={tailwindcss} className='rounded-lg' alt="typeScript logo" />
         </div>
