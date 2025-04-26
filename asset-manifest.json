@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/nureazam/static/css/main.3babc0cc.css",
-    "main.js": "/nureazam/static/js/main.73f48d21.js",
+    "main.css": "/nureazam/static/css/main.41446292.css",
+    "main.js": "/nureazam/static/js/main.b452c0c8.js",
     "static/js/453.4f5b3267.chunk.js": "/nureazam/static/js/453.4f5b3267.chunk.js",
     "static/media/carRepairServicing.png": "/nureazam/static/media/carRepairServicing.8d05807d46121296d7cf.png",
     "static/media/nureazamWeb.png": "/nureazam/static/media/nureazamWeb.24da33d381e57f1b671a.png",
@@ -21,6 +21,7 @@
     "static/media/herobg.jpg": "/nureazam/static/media/herobg.3565a1b44b010125bd81.jpg",
     "static/media/Real-Estate-Marketplace.png": "/nureazam/static/media/Real-Estate-Marketplace.8cb4eb7077669644d94d.png",
     "static/media/web.png": "/nureazam/static/media/web.bfb5b4aeb814502abece.png",
+    "static/media/devops-and-cloud-engineer.avif": "/nureazam/static/media/devops-and-cloud-engineer.0aac56459ae09dd73712.avif",
     "static/media/postgresql_logo.png": "/nureazam/static/media/postgresql_logo.1d21ed17b8f727842c03.png",
     "static/media/redis_logo.png": "/nureazam/static/media/redis_logo.10e696cc4761f5dd4399.png",
     "static/media/mobile.jpg": "/nureazam/static/media/mobile.4860180235e12d429be7.jpg",
@@ -42,15 +43,16 @@
     "static/media/tailwindcss.png": "/nureazam/static/media/tailwindcss.ccd9dbce550738e1d75f.png",
     "static/media/vue_logo.png": "/nureazam/static/media/vue_logo.8ccf462f8fe4ee1b4e28.png",
     "static/media/JavaScript_logo.png": "/nureazam/static/media/JavaScript_logo.5a3148cea9cef7185f7f.png",
+    "static/media/aws.webp": "/nureazam/static/media/aws.f62cc39dd109a82615c0.webp",
     "static/media/close.svg": "/nureazam/static/media/close.52ab0d39b2c514b8322115c951eac5a2.svg",
     "static/media/menu.svg": "/nureazam/static/media/menu.acf64a387fc724c7a47a3a0120d5dc52.svg",
     "index.html": "/nureazam/index.html",
-    "main.3babc0cc.css.map": "/nureazam/static/css/main.3babc0cc.css.map",
-    "main.73f48d21.js.map": "/nureazam/static/js/main.73f48d21.js.map",
+    "main.41446292.css.map": "/nureazam/static/css/main.41446292.css.map",
+    "main.b452c0c8.js.map": "/nureazam/static/js/main.b452c0c8.js.map",
     "453.4f5b3267.chunk.js.map": "/nureazam/static/js/453.4f5b3267.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.3babc0cc.css",
-    "static/js/main.73f48d21.js"
+    "static/css/main.41446292.css",
+    "static/js/main.b452c0c8.js"
   ]
 }
