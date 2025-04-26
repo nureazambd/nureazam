@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import {web, mobile, backend, creator} from '../assets'
+import {web, mobile, backend, creator, devops} from '../assets'
 function About() {
     const [moreinfo, setMoreinfo] = useState(false)
   return (
@@ -26,14 +26,7 @@ function About() {
       }
 
     <div className="flex flex-wrap -m-4">
-      <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
-        <div className=" p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
-        <div className=" p-32 sm:p-6 rounded-lg  ">
-          <img className="rounded object-cover object-center mb-6 h-32 w-full" src={web} alt="content"/>
-          <h2 className="text-lg text-gray-50 font-medium title-font lg:w-32 text-center mb-4">Web Development</h2>
-        </div>
-        </div>
-      </div>
+      
       <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
         <div className="p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
         <div class=" p-32 sm:p-6 rounded-lg">
@@ -58,6 +51,24 @@ function About() {
         </div>
         </div>
       </div>
+      <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+        <div className="p-6 rounded-lg bg-[#151030] border-2 border-gray-300 flex flex-col relative overflow-hidden">
+        <div class=" p-32 sm:p-6 rounded-lg">
+          <img class="rounded object-cover object-center mb-6 h-32 w-full" width={350} height={400} src={devops} alt="content"/>
+          <h2 class="text-lg text-gray-50 font-medium title-font text-center mb-4">DevOps <br /> Engineering</h2>
+        </div>
+        </div>
+      </div>
+
+      {/* <div className="p-4 lg:w-1/4 md:w-1/2 w-full">
+        <div className=" p-6 rounded-lg border-2 bg-[#151030] border-gray-300 flex flex-col relative overflow-hidden">
+        <div className=" p-32 sm:p-6 rounded-lg  ">
+          <img className="rounded object-cover object-center mb-6 h-32 w-full" src={web} alt="content"/>
+          <h2 className="text-lg text-gray-50 font-medium title-font lg:w-32 text-center mb-4">DevOps Engineering</h2>
+        </div>
+        </div>
+      </div> */}
+
     </div>
   </div>
 </section>
