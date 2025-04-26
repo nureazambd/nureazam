@@ -23,7 +23,8 @@ import {
   redis_logo,
   postgresql_logo,
   angular_logo,
-  sql_logo
+  sql_logo,
+  aws
 } from '../assets';
 
 function Experience() {
@@ -269,6 +270,10 @@ function Experience() {
         <img src={docker_logo} className='rounded-lg' alt="docker logo" />
         </div>
 
+        <div className='w-28 h-28 bg-white rounded-lg'>  
+        <img src={aws} className='rounded-lg' alt="AWS logo" />
+        </div>
+
         <div className='w-28 h-28 bg-[#1d1836] rounded-lg'>  
         <img src={restapi_logo} className='rounded-lg' alt="restapi logo" />
         </div>
@@ -301,15 +306,11 @@ function Experience() {
         <img src={angular_logo} className='rounded-lg' alt="angular logo" />
         </div>
         <div className='w-28 h-28'>  
-        <img src={vuejs} className='rounded-lg' alt="css logo" />
+        <img src={vuejs} className='rounded-lg' alt="vue.js logo" />
         </div>
 
         <div className='w-28 h-28 '>  
-        <img src={reduxtoolkit} className='rounded-lg' alt="html logo" />
-        </div>
-        
-        <div className='w-28 h-28'>  
-        <img src={nuxtjs} className='rounded-lg' alt="js logo" />
+        <img src={reduxtoolkit} className='rounded-lg' alt="Redux toolkit logo" />
         </div>
 
         <div className='w-28 h-28 '>  
