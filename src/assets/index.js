@@ -10,6 +10,9 @@ import backend from "./backend.webp";
 
 // import creator from "./creator.png";
 import creator from "./creator.png";
+// devops-and-cloud-engineer.avif
+import devops from "./devops-and-cloud-engineer.avif";
+
 
 import linkIcon from './linkIcon.png';
 import herobg from './herobg.jpg';
@@ -53,6 +56,10 @@ import graphql_logo from './graphql_logo.png';
 import postgresql_logo from './postgresql_logo.png';
 import angular_logo from './angular_logo.png';
 import sql_logo from './sql_logo.png';
+// aws.webp
+import aws from './aws.webp';
+
+
 
 
 
@@ -80,6 +87,7 @@ export{
     mobile,
     backend,
     creator,
+    devops,
     linkIcon,
     herobg,
     rtchubsWeb,
@@ -121,6 +129,7 @@ export{
     graphql_logo,
     postgresql_logo,
     angular_logo,
-    sql_logo
+    sql_logo,
+    aws
     
 }
